@@ -1,0 +1,21 @@
+{
+  "name": "alwynou-theme",
+  "displayName": "alwynou-theme",
+  "description": "alwynou vscode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alwynou Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Alwynou Theme-color-theme.json"
+      }
+    ]
+  }
+}
